@@ -8,3 +8,8 @@
 	url = https://github.com/leahfeuerstahler/flexmet
 	shallow = true
 	registered = true
+[submodule "scaleAlign"]
+	path = scaleAlign
+	url = https://github.com/cran/scaleAlign
+	shallow = true
+	registered = true
